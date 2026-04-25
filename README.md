@@ -1,18 +1,18 @@
 #  India Migration Analysis Dashboard (Power BI)
 
- 1.  Project Title / Headline
+ ##1.  Project Title / Headline
 India Migration Trend Analysis Dashboard using Power BI
 
 ---
 
-2.  Short Description / Purpose
+##2.  Short Description / Purpose
 This project analyzes internal migration patterns in India using Census data.  
 The dashboard provides insights into migration trends across states, reasons (work, marriage, education), gender distribution, and duration of stay.  
 It helps understand demographic movement and supports data-driven decision-making.
 
 ---
 
- 3. Tech Stack
+ ##3. Tech Stack
 - Power BI (Dashboard Development)
 - Power Query (Data Cleaning & Transformation)
 - DAX (Basic Calculations & Measures)
@@ -20,8 +20,8 @@ It helps understand demographic movement and supports data-driven decision-makin
 
 ---
 
- 4.  Data Source
-- ## Dataset
+ ##4.  Data Source
+
 
 ### Raw Dataset (Source: Census of India 2011)
 - Rows: 67,505
@@ -46,7 +46,7 @@ It helps understand demographic movement and supports data-driven decision-makin
 
 
 
-5.  Features / Highlights
+##5.  Features / Highlights
 - 📊 Built a **3-page interactive dashboard** (Overview, Reasons, Duration)
 - 🔍 Analyzed **~93% intrastate migration dominance**
 - 👩‍💼 Explored **gender-based migration trends** (Male → Jobs, Female → Marriage)
