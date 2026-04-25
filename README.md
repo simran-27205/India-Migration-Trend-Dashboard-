@@ -61,7 +61,7 @@ It helps understand demographic movement and supports data-driven decision-makin
 
 ## 📊 Dashboard Structure
 
-### 🔹 Page 1: Migration Overview
+###  Page 1: Migration Overview
 - KPI Cards:
 - Total Migrants
 - Interstate Migrants
@@ -75,7 +75,7 @@ It helps understand demographic movement and supports data-driven decision-makin
 
 ---
 
-### 🔹 Page 2: Reasons & Demographics
+###  Page 2: Reasons & Demographics
 - Stacked Bar: Migrants by Reason
 - Donut Chart: % Share by Reason
 - Clustered Bar: Migration by Gender & Reason
@@ -84,7 +84,7 @@ It helps understand demographic movement and supports data-driven decision-makin
 
 ---
 
-### 🔹 Page 3: Duration Analysis
+###  Page 3: Duration Analysis
 - Bar Chart: Migrants by Duration of Stay
 - Stacked Chart: Duration vs Migration Reason
 - Insights Section:
@@ -108,26 +108,6 @@ It helps understand demographic movement and supports data-driven decision-makin
 - Clean and modern UI design
 - Multi-page analytical dashboard
 - Dynamic data exploration
-
----
-
-## ⚠️ Limitations
-- Dataset is from a single year (2011), so no trend analysis (YoY)
-- No detailed origin-destination mapping available
-- No urban vs rural classification in dataset
-
----
-
-## 🚀 Future Improvements
-- Add multi-year data for trend analysis
-- Integrate origin-destination mapping
-- Include urban vs rural migration insights
-- Advanced anomaly detection using DAX
-
----
-
-## 📸 Dashboard Preview
-*(Add screenshots here)*
 
 ---
 
